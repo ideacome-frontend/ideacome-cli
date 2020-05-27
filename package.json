@@ -1,0 +1,51 @@
+{
+  "name": "ideacome-cli",
+  "version": "1.0.0",
+  "author": "zhengj",
+  "license": "MIT",
+  "devDependencies": {
+    "typedoc": "^0.17.4",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "@vue/cli-shared-utils": "^4.4.1",
+    "chalk": "^4.0.0",
+    "commander": "^5.1.0",
+    "debug": "^4.1.1",
+    "download-git-repo": "^3.0.2",
+    "events": "^3.1.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.0",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.1.0",
+    "lodash": "^4.17.15",
+    "lodash.clonedeep": "^4.5.0",
+    "minimist": "^1.2.5",
+    "ora": "^4.0.4",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "validate-npm-package-name": "^3.0.0"
+  },
+  "bin": {
+    "ideacome-cli": "index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ideacome-frontend/ideacome-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/ideacome-frontend/ideacome-cli/issues"
+  },
+  "homepage": "https://github.com/ideacome-frontend/ideacome-cli#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
