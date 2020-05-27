@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "author": "zhengj",
   "license": "MIT",
-  "devDependencies": {
-    "typedoc": "^0.17.4",
-    "typescript": "^3.3.3"
-  },
   "dependencies": {
     "@vue/cli-shared-utils": "^4.4.1",
     "chalk": "^4.0.0",
