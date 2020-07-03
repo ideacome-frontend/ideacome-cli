@@ -16,3 +16,9 @@
 
 `ideacome-cli create project-name`
 
+
+二、npm安装（未完成）
+
+`npm install -g ideacome-cli`
+
+`ideacome-cli create project-name`
