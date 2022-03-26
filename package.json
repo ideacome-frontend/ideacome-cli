@@ -16,7 +16,7 @@
     "inquirer": "^7.1.0",
     "lodash": "^4.17.15",
     "lodash.clonedeep": "^4.5.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "ora": "^4.0.4",
     "os": "^0.1.1",
     "path": "^0.12.7",
